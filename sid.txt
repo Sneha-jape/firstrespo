@@ -1,1 +1,10 @@
 2nd file that i have
+that'svery cool
+python
+SSIS package
+Mongodb
+oracle
+postgreysql
+git hub
+BI
+project classes
